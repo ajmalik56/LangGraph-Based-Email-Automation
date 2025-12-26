@@ -7,11 +7,7 @@ Author: kaymen99
 
 # 🚀 **Customer Support Email Automation with AI Agents and RAG**
 
-## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!** 👉 [Read Now](https://dev.to/kaymen99/boost-customer-support-ai-agents-langgraph-and-rag-for-email-automation-21hj) 🎯   
-
-![customer-support-ai-automation](https://github.com/user-attachments/assets/eb061276-0579-4e28-9360-482c8da33a9d)
-
-## **Introduction**  
+## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!** 
 
 In today's **fast-paced environment**, customers demand **quick, accurate, and personalized responses**—expectations that can overwhelm traditional support teams. Managing large volumes of emails, categorizing them, crafting appropriate replies, and ensuring quality consumes **significant time and resources**, often leading to **delays or errors**, which can harm customer satisfaction.  
 
@@ -71,11 +67,7 @@ This is the detailed flow of the system:
 
 ### Setup
 
-1. **Clone the repository:**
 
-   ```sh
-   git clone https://github.com/kaymen99/langgraph-email-automation.git
-   cd langgraph-email-automation
    ```
 
 2. **Create and activate a virtual environment:**
@@ -100,10 +92,6 @@ This is the detailed flow of the system:
    GROQ_API_KEY=your_groq_api_key
    GOOGLE_API_KEY=your_gemini_api_key
    ```
-
-5. **Ensure Gmail API is enabled:**
-
-   Follow [this guide](https://developers.google.com/gmail/api/quickstart/python) to enable Gmail API and obtain your credentials.
 
 ### Running the Application
 
@@ -134,10 +122,3 @@ You can also add your own agency data into the `data` folder, then you must crea
 python create_index.py
 ```
 
-### Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-### Contact
-
-If you have any questions or suggestions, feel free to contact me at `aymenMir1001@gmail.com`.
